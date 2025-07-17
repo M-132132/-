@@ -1,5 +1,3 @@
-# -
-学习项目
 # 机器学习项目 2：使用图神经网络的深度强化学习实现自主变道
 
 ![](https://github.com/BorveErik/Autonomous-Truck-Sim/blob/RL_training_env/simRes.gif)
