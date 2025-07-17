@@ -1,0 +1,8 @@
+{
+    "avg_distance": 382.8189211289608,
+    "avg_speed": 14.367855616763162,
+    "total_derails": 4,
+    "total_crashes": 0,
+    "num_episodes": 30,
+    "avg_decision_time": 0.02662571070491224,
+    "prop_left_decisions": 

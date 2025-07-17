@@ -1,0 +1,12 @@
+{
+    "log_dir": "../out/runs",
+    "num_episodes": 5,
+    "max_dist": 500,
+    "time_step": 0.2,
+    "controller_frequency": 5,
+    "speed_limit": 60,
+    "horizon_length": 12,
+    "simulation_time": 1,
+    "exp_id": "example",
+    "display_simulation": true
+}

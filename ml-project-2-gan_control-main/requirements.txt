@@ -1,0 +1,8 @@
+casadi
+numpy
+matplotlib
+torch
+torch-geometric
+networkx
+tensorboard
+pyqt5
