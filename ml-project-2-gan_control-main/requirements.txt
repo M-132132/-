@@ -6,3 +6,4 @@ torch-geometric
 networkx
 tensorboard
 pyqt5
+ipython
