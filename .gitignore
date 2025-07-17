@@ -1,0 +1,9 @@
+_pychache_
+__pycache__
+.venv
+simData.csv
+res/simRes.gif
+
+out/runs
+
+.idea
